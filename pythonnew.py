@@ -3,7 +3,7 @@ def numbers (x,y) :
 
 
  if (x==y) :
-    print("x and y are not equal")
+    print("x and y are  equal")
  return 
 print("x and y are not equal")  
 
